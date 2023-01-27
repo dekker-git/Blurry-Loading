@@ -16,6 +16,3 @@ function blurring() {
     console.log('done');
 };
 
-(function some () {
-console.log('hello');
-}());
